@@ -35,7 +35,7 @@ A modular web scraper built using **Python**, **Selenium**, and **JavaScript** t
 
 1. **Install dependencies**:
    ```bash
-   pip install selenium pandas
+   pip install -r requirements.txt
    ```
 
 2. **Ensure ChromeDriver is installed** and added to your system path.
